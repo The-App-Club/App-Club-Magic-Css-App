@@ -1,0 +1,3 @@
+- Reference
+  - [magic](https://github.com/miniMAC/magic)
+  - [magic demo](https://www.minimamente.com/project/magic/)
